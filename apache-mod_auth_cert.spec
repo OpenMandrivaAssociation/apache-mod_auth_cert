@@ -34,7 +34,7 @@ The module can be combined with other authentication modules.
 
 cp %{SOURCE1} %{mod_conf}
 
-find -type f -exec dos2unix -U {} \;
+find -type f -exec dos2unix {} \;
 
 %build
 

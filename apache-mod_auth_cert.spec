@@ -7,7 +7,7 @@
 Summary:	Maps the Subject DN of a X509 client certificate to a username
 Name:		apache-%{mod_name}
 Version:	0.3
-Release:	%mkrel 8
+Release:	%mkrel 9
 Group:		System/Servers
 License:	GPL
 URL:		http://sourceforge.net/projects/mod-auth-cert/

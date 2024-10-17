@@ -10,7 +10,7 @@ Version:	0.3
 Release:	10
 Group:		System/Servers
 License:	GPL
-URL:		http://sourceforge.net/projects/mod-auth-cert/
+URL:		https://sourceforge.net/projects/mod-auth-cert/
 Source0:	http://dfn.dl.sourceforge.net/sourceforge/mod-auth-cert/%{mod_name}-%{version}.tgz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
